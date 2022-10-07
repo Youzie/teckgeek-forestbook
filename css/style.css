@@ -1,0 +1,27 @@
+h1 {
+  color: red;
+}
+
+.class-name{
+  color: blue;
+}
+
+#id-name{
+  color: green;
+}
+
+.narrow-down p {
+  color: orange;
+}
+
+.child-element > p {
+  color: purple;
+}
+
+.next-element + p {
+  color: seagreen;
+}
+
+.after-element ~ p {
+  color: slateblue;
+}
